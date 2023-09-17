@@ -23,7 +23,7 @@
                 {
                     "id": 5007,
                     "key": "AbilityHaste",
-                    "icon": "perk-images/StatMods/StatModsCDRScalingIcon.pngg",
+                    "icon": "perk-images/StatMods/StatModsCDRScalingIcon.png",
                     "name": "Ability Haste",
                     "shortDesc": "8 ability haste",
                     "longDesc": "8 ability haste"
