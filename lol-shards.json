@@ -1,0 +1,90 @@
+{
+    "name": "Shards",
+    "key": "Shards",
+    "slots": [
+        {
+            "runes": [
+                {
+                    "id": 5008,
+                    "key": "AdaptiveForce",
+                    "icon": "perk-images/StatMods/StatModsAdaptiveForceIcon.png",
+                    "name": "Adaptive Force",
+                    "shortDesc": "5.4 bonus Attack Damage or 9 Ability Power",
+                    "longDesc": "5.4 bonus Attack Damage or 9 Ability Power"
+                },
+                {
+                    "id": 5005,
+                    "key": "AttackSpeed",
+                    "icon": "perk-images/StatMods/StatModsAttackSpeedIcon.png",
+                    "name": "Attack Speed",
+                    "shortDesc": "10% bonus attack speed",
+                    "longDesc": "10% bonus attack speed"
+                },
+                {
+                    "id": 5007,
+                    "key": "AbilityHaste",
+                    "icon": "perk-images/StatMods/StatModsCDRScalingIcon.pngg",
+                    "name": "Ability Haste",
+                    "shortDesc": "8 ability haste",
+                    "longDesc": "8 ability haste"
+                }
+            ]
+        },
+        {
+            "runes": [
+                {
+                    "id": 5008,
+                    "key": "AdaptiveForce",
+                    "icon": "perk-images/StatMods/StatModsAdaptiveForceIcon.png",
+                    "name": "Adaptive Force",
+                    "shortDesc": "5.4 bonus Attack Damage or 9 Ability Power",
+                    "longDesc": "5.4 bonus Attack Damage or 9 Ability Power"
+                },
+                {
+                    "id": 5002,
+                    "key": "Armor",
+                    "icon": "perk-images/StatMods/StatModsArmorIcon.png",
+                    "name": "Armor",
+                    "shortDesc": "6 bonus armor",
+                    "longDesc": "6 bonus armord"
+                },
+                {
+                    "id": 5003,
+                    "key": "MagicResistance",
+                    "icon": "perk-images/StatMods/StatModsMagicResIcon.png",
+                    "name": "Magic Resistance",
+                    "shortDesc": "8 bonus magic resistance",
+                    "longDesc": "8 bonus magic resistance"
+                }
+            ]
+        },
+        {
+            "runes": [
+                {
+                    "id": 5001,
+                    "key": "HealthScaling",
+                    "icon": "perk-images/StatMods/StatModsHealthScalingIcon.png",
+                    "name": "Health Scaling",
+                    "shortDesc": "15 − 140 (based on level) bonus health",
+                    "longDesc": "15 − 140 (based on level) bonus health"
+                },
+                {
+                    "id": 5002,
+                    "key": "Armor",
+                    "icon": "perk-images/StatMods/StatModsArmorIcon.png",
+                    "name": "Armor",
+                    "shortDesc": "6 bonus armor",
+                    "longDesc": "6 bonus armord"
+                },
+                {
+                    "id": 5003,
+                    "key": "MagicResistance",
+                    "icon": "perk-images/StatMods/StatModsMagicResIcon.png",
+                    "name": "Magic Resistance",
+                    "shortDesc": "8 bonus magic resistance",
+                    "longDesc": "8 bonus magic resistance"
+                }
+            ]
+        }
+    ]
+}
