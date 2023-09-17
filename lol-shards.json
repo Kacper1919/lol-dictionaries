@@ -65,8 +65,8 @@
                     "key": "HealthScaling",
                     "icon": "perk-images/StatMods/StatModsHealthScalingIcon.png",
                     "name": "Health Scaling",
-                    "shortDesc": "15 − 140 (based on level) bonus health",
-                    "longDesc": "15 − 140 (based on level) bonus health"
+                    "shortDesc": "15 to 140 (based on level) bonus health",
+                    "longDesc": "15 to 140 (based on level) bonus health"
                 },
                 {
                     "id": 5002,
